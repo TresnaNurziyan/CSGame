@@ -1,0 +1,6 @@
+C:\Users\tresna\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe.config
+C:\Users\tresna\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.exe
+C:\Users\tresna\documents\visual studio 2015\Projects\Game\Game\bin\Debug\Game.pdb
+C:\Users\tresna\documents\visual studio 2015\Projects\Game\Game\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+C:\Users\tresna\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.exe
+C:\Users\tresna\documents\visual studio 2015\Projects\Game\Game\obj\Debug\Game.pdb
